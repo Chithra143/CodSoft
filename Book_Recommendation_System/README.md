@@ -39,7 +39,7 @@ To run this project, follow the steps below:
 - **pt.pkl:** Pickled data file containing the pivot table of book titles.
 - **books.pkl:** Pickled data file containing book details.
 - **similarity_score.pkl:** Pickled data file containing similarity scores.
-- 
+  
 ## Usage
 
 ### Home Page
