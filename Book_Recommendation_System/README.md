@@ -39,13 +39,24 @@ To run this project, follow the steps below:
 - **pt.pkl:** Pickled data file containing the pivot table of book titles.
 - **books.pkl:** Pickled data file containing book details.
 - **similarity_score.pkl:** Pickled data file containing similarity scores.
+- 
+## Usage
+
+### Home Page
+
+The home page displays the top 50 books with their titles, authors, images, number of votes, and average ratings.
+
+### Recommendation Page
+
+On the recommendation page, users can input a book title to get a list of similar books. The system will display the title, author, and image of the recommended books.
 
 ## License
  
 This project is licensed under the MIT License. See the LICENSE file for more details
 
 ## Support 
- 
+
+  For any questions or feedback, please contact pchithra611@gmail.com
 
 ## Contributing
 
